@@ -1,0 +1,52 @@
+body {
+    background-color: #f0f4ff;
+    font-family: 'Segoe UI', sans-serif;
+}
+.header {
+    background-color: #007bff;
+    color: white;
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.status-card {
+    background-color: #12a4c6;
+    color: white;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px 20px;
+}
+.status-card h5 {
+    margin: 0;
+    font-weight: bold;
+}
+.status-card span {
+    background-color: #e7dede;
+    color: black;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.icon {
+    font-size: 1.5rem;
+    margin-right: 10px;
+}
+.menu-bottom {
+    background-color: #007bff;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+.menu-bottom a {
+    color: white;
+    text-decoration: none;
+}
