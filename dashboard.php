@@ -16,7 +16,7 @@ $tertunda = mysqli_num_rows(mysqli_query($conn, "SELECT * FROM tugas WHERE id_us
     <title>Dashboard - Task Flow</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
     <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
-    <link rel="stylesheet" href="css/dashboard.css">
+    <link rel="stylesheet" href="dashboard.css">
 </head>
 <body>
 <div class="header">
