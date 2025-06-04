@@ -18,7 +18,7 @@ Proyek ini dibangun dengan antarmuka pengguna yang bersih dan responsif mengguna
 * **Autentikasi Pengguna:**
     * Registrasi pengguna baru.
     * Login pengguna dengan verifikasi password yang di-hash.
-    * Sistem Lupa Password (jika `lupapass.php` diimplementasikan sepenuhnya).
+    * Sistem Lupa Password.
     * Logout.
 * **Manajemen Tugas (CRUD):**
     * **Create:** Menambahkan tugas baru melalui modal.
